@@ -1,6 +1,6 @@
 package com.example.module_13;
 
-import com.example.module_13.Model.Note;
+import com.example.module_13.model.Note;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

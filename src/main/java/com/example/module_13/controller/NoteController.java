@@ -1,6 +1,6 @@
-package com.example.module_13.Controller;
+package com.example.module_13.controller;
 
-import com.example.module_13.Model.Note;
+import com.example.module_13.model.Note;
 import com.example.module_13.NoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

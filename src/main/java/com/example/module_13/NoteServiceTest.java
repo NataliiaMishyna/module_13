@@ -1,6 +1,6 @@
 package com.example.module_13;
 
-import com.example.module_13.Model.Note;
+import com.example.module_13.model.Note;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

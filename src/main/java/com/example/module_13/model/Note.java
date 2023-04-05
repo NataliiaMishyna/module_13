@@ -1,4 +1,4 @@
-package com.example.module_13.Model;
+package com.example.module_13.model;
 
 public class Note {
     private Long id;
